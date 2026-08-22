@@ -1,0 +1,311 @@
+date,description,amount,account
+2024-09-02,Refund received,28.34,Main Bank Account
+2024-09-06,Google Ads campaign,-234.71,Cash Register
+2024-09-07,Software subscription - SaaS tools,-43.42,Cash Register
+2024-09-09,Facebook Ads campaign,-235.76,Main Bank Account
+2024-09-13,Electricity bill,-207.43,Cash Register
+2024-09-13,Office supplies purchase,-140.54,Cash Register
+2024-09-20,Rent payment - office,-1792.04,Main Bank Account
+2024-09-20,Business trip - flights/hotel,-268.73,Cash Register
+2024-09-23,Salary payment - staff,-4118.54,Main Bank Account
+2024-09-23,Tax payment - quarterly,-1144.36,Main Bank Account
+2024-09-24,Client payment - invoice,2012.66,Main Bank Account
+2024-09-24,Product sale - online store,167.87,Main Bank Account
+2024-09-26,Water bill,-58.48,Cash Register
+2024-10-02,Salary payment - staff,-3936.47,Cash Register
+2024-10-05,Software subscription - SaaS tools,-100.27,Cash Register
+2024-10-05,Water bill,-42.17,Main Bank Account
+2024-10-07,Facebook Ads campaign,-189.09,Cash Register
+2024-10-09,Refund received,146.95,Cash Register
+2024-10-10,Electricity bill,-188.87,Main Bank Account
+2024-10-12,Product sale - online store,458.56,Cash Register
+2024-10-14,Electricity bill,-103.28,Cash Register
+2024-10-14,Business trip - flights/hotel,-442.15,Cash Register
+2024-10-14,Consulting fee received,727.03,Main Bank Account
+2024-10-15,Product sale - online store,486.37,Main Bank Account
+2024-10-15,Tax payment - quarterly,-776.71,Main Bank Account
+2024-10-16,Google Ads campaign,-349.66,Cash Register
+2024-10-16,Google Ads campaign,-492.6,Cash Register
+2024-10-16,Business trip - flights/hotel,-310.39,Main Bank Account
+2024-10-16,Tax payment - quarterly,-442.52,Main Bank Account
+2024-10-17,Consulting fee received,2357.3,Main Bank Account
+2024-10-20,Client payment - invoice,3992.38,Main Bank Account
+2024-10-21,Salary payment - staff,-4144.64,Main Bank Account
+2024-10-25,Consulting fee received,2030.6,Main Bank Account
+2024-10-25,Facebook Ads campaign,-527.3,Main Bank Account
+2024-10-27,Rent payment - office,-1569.51,Main Bank Account
+2024-10-28,Client payment - invoice,1780.35,Main Bank Account
+2024-10-28,Office supplies purchase,-136.84,Main Bank Account
+2024-11-01,Product sale - online store,131.64,Main Bank Account
+2024-11-02,Rent payment - office,-1542.11,Main Bank Account
+2024-11-03,Product sale - online store,438.8,Main Bank Account
+2024-11-07,Refund received,280.1,Main Bank Account
+2024-11-07,Office supplies purchase,-85.65,Main Bank Account
+2024-11-09,Salary payment - staff,-4031.72,Main Bank Account
+2024-11-09,Business trip - flights/hotel,-522.42,Main Bank Account
+2024-11-13,Consulting fee received,2986.9,Cash Register
+2024-11-16,Google Ads campaign,-193.15,Main Bank Account
+2024-11-17,Refund received,146.42,Main Bank Account
+2024-11-22,Software subscription - SaaS tools,-85.52,Cash Register
+2024-11-24,Facebook Ads campaign,-179.02,Cash Register
+2024-11-24,Water bill,-48.12,Main Bank Account
+2024-11-28,Electricity bill,-125.22,Main Bank Account
+2024-11-28,Tax payment - quarterly,-515.23,Main Bank Account
+2024-12-02,Refund received,66.1,Main Bank Account
+2024-12-03,Client payment - invoice,5595.02,Main Bank Account
+2024-12-03,Office supplies purchase,-68.97,Main Bank Account
+2024-12-10,Google Ads campaign,-417.27,Main Bank Account
+2024-12-14,Product sale - online store,608.49,Main Bank Account
+2024-12-14,Tax payment - quarterly,-674.1,Cash Register
+2024-12-17,Water bill,-57.2,Main Bank Account
+2024-12-18,Software subscription - SaaS tools,-115.12,Cash Register
+2024-12-19,Electricity bill,-158.02,Main Bank Account
+2024-12-19,Business trip - flights/hotel,-652.27,Main Bank Account
+2024-12-24,Facebook Ads campaign,-152.06,Cash Register
+2024-12-26,Salary payment - staff,-3950.41,Cash Register
+2025-01-02,Tax payment - quarterly,-1197.16,Main Bank Account
+2025-01-04,Electricity bill,-104.34,Main Bank Account
+2025-01-06,Salary payment - staff,-4193.27,Cash Register
+2025-01-11,Refund received,280.13,Main Bank Account
+2025-01-12,Rent payment - office,-1535.74,Main Bank Account
+2025-01-13,Consulting fee received,653.37,Cash Register
+2025-01-15,Client payment - invoice,3916.38,Main Bank Account
+2025-01-18,Client payment - invoice,1672.35,Cash Register
+2025-01-18,Google Ads campaign,-386.24,Main Bank Account
+2025-01-20,Water bill,-52.63,Cash Register
+2025-01-21,Office supplies purchase,-47.65,Cash Register
+2025-01-22,Product sale - online store,873.62,Main Bank Account
+2025-01-26,Facebook Ads campaign,-305.71,Main Bank Account
+2025-01-28,Business trip - flights/hotel,-769.52,Cash Register
+2025-02-04,Client payment - invoice,913.84,Main Bank Account
+2025-02-05,Refund received,31.71,Cash Register
+2025-02-08,Facebook Ads campaign,-210.93,Main Bank Account
+2025-02-12,Client payment - invoice,1655.42,Main Bank Account
+2025-02-12,Rent payment - office,-1565.97,Cash Register
+2025-02-24,Product sale - online store,558.11,Cash Register
+2025-02-24,Software subscription - SaaS tools,-46.04,Cash Register
+2025-02-26,Water bill,-35.46,Cash Register
+2025-02-27,Client payment - invoice,2530.69,Main Bank Account
+2025-02-27,Tax payment - quarterly,-465.24,Cash Register
+2025-02-28,Electricity bill,-124.44,Main Bank Account
+2025-03-01,Consulting fee received,611.42,Cash Register
+2025-03-03,Google Ads campaign,-139.43,Cash Register
+2025-03-07,Tax payment - quarterly,-856.09,Cash Register
+2025-03-08,Product sale - online store,77.21,Main Bank Account
+2025-03-10,Business trip - flights/hotel,-556.35,Main Bank Account
+2025-03-11,Refund received,98.01,Main Bank Account
+2025-03-12,Consulting fee received,2032.0,Cash Register
+2025-03-13,Office supplies purchase,-68.72,Main Bank Account
+2025-03-17,Salary payment - staff,-4419.05,Main Bank Account
+2025-03-18,Water bill,-55.54,Cash Register
+2025-03-19,Product sale - online store,1156.91,Cash Register
+2025-03-20,Rent payment - office,-1669.63,Cash Register
+2025-03-22,Software subscription - SaaS tools,-52.16,Cash Register
+2025-03-22,Electricity bill,-166.91,Cash Register
+2025-03-23,Facebook Ads campaign,-403.77,Main Bank Account
+2025-04-02,Client payment - invoice,1846.63,Cash Register
+2025-04-08,Consulting fee received,2477.72,Main Bank Account
+2025-04-08,Facebook Ads campaign,-520.85,Cash Register
+2025-04-08,Google Ads campaign,-151.36,Main Bank Account
+2025-04-13,Rent payment - office,-1651.69,Main Bank Account
+2025-04-15,Refund received,209.18,Cash Register
+2025-04-15,Client payment - invoice,2779.43,Main Bank Account
+2025-04-16,Tax payment - quarterly,-839.94,Main Bank Account
+2025-04-18,Business trip - flights/hotel,-532.45,Main Bank Account
+2025-04-22,Product sale - online store,147.51,Cash Register
+2025-04-23,Salary payment - staff,-4496.12,Main Bank Account
+2025-04-24,Office supplies purchase,-42.96,Cash Register
+2025-04-26,Software subscription - SaaS tools,-82.83,Cash Register
+2025-04-27,Client payment - invoice,5736.0,Main Bank Account
+2025-05-03,Product sale - online store,527.1,Cash Register
+2025-05-05,Product sale - online store,315.95,Main Bank Account
+2025-05-09,Water bill,-44.75,Main Bank Account
+2025-05-11,Consulting fee received,2711.17,Main Bank Account
+2025-05-13,Google Ads campaign,-318.75,Cash Register
+2025-05-13,Software subscription - SaaS tools,-51.72,Cash Register
+2025-05-14,Rent payment - office,-1781.32,Cash Register
+2025-05-21,Refund received,86.99,Cash Register
+2025-05-22,Office supplies purchase,-68.5,Cash Register
+2025-05-23,Client payment - invoice,2071.5,Cash Register
+2025-05-24,Electricity bill,-149.0,Main Bank Account
+2025-05-25,Salary payment - staff,-4091.14,Main Bank Account
+2025-05-27,Business trip - flights/hotel,-519.57,Main Bank Account
+2025-06-02,Product sale - online store,349.18,Cash Register
+2025-06-03,Google Ads campaign,-203.13,Main Bank Account
+2025-06-06,Office supplies purchase,-77.29,Main Bank Account
+2025-06-06,Business trip - flights/hotel,-221.17,Main Bank Account
+2025-06-07,Water bill,-43.72,Cash Register
+2025-06-08,Software subscription - SaaS tools,-104.05,Main Bank Account
+2025-06-08,Electricity bill,-203.59,Main Bank Account
+2025-06-10,Tax payment - quarterly,-739.36,Cash Register
+2025-06-11,Rent payment - office,-1698.75,Cash Register
+2025-06-19,Refund received,178.03,Main Bank Account
+2025-06-21,Client payment - invoice,2857.37,Cash Register
+2025-06-24,Facebook Ads campaign,-357.26,Cash Register
+2025-06-27,Salary payment - staff,-4204.9,Main Bank Account
+2025-07-03,Product sale - online store,730.91,Main Bank Account
+2025-07-03,Software subscription - SaaS tools,-97.69,Cash Register
+2025-07-12,Client payment - invoice,3430.1,Cash Register
+2025-07-12,Office supplies purchase,-54.26,Cash Register
+2025-07-14,Rent payment - office,-1747.16,Cash Register
+2025-07-15,Electricity bill,-145.92,Cash Register
+2025-07-16,Water bill,-30.22,Main Bank Account
+2025-07-17,Client payment - invoice,4061.49,Main Bank Account
+2025-07-17,Tax payment - quarterly,-441.55,Main Bank Account
+2025-07-18,Salary payment - staff,-3957.75,Cash Register
+2025-07-20,Business trip - flights/hotel,-379.29,Cash Register
+2025-07-21,Consulting fee received,2707.25,Cash Register
+2025-07-23,Client payment - invoice,4748.64,Main Bank Account
+2025-07-24,Facebook Ads campaign,-333.39,Cash Register
+2025-07-27,Refund received,157.26,Cash Register
+2025-08-02,Business trip - flights/hotel,-467.98,Main Bank Account
+2025-08-03,Client payment - invoice,2118.3,Cash Register
+2025-08-10,Product sale - online store,813.55,Cash Register
+2025-08-10,Water bill,-52.04,Main Bank Account
+2025-08-15,Salary payment - staff,-4310.36,Cash Register
+2025-08-16,Refund received,175.45,Main Bank Account
+2025-08-16,Software subscription - SaaS tools,-97.88,Cash Register
+2025-08-17,Rent payment - office,-1696.87,Cash Register
+2025-08-21,Refund received,219.32,Cash Register
+2025-08-23,Office supplies purchase,-85.9,Cash Register
+2025-08-24,Facebook Ads campaign,-513.34,Main Bank Account
+2025-08-25,Google Ads campaign,-237.74,Main Bank Account
+2025-08-25,Tax payment - quarterly,-807.3,Main Bank Account
+2025-09-05,Product sale - online store,982.81,Cash Register
+2025-09-06,Water bill,-40.68,Main Bank Account
+2025-09-07,Electricity bill,-185.6,Main Bank Account
+2025-09-08,Rent payment - office,-1764.46,Cash Register
+2025-09-08,Business trip - flights/hotel,-627.14,Cash Register
+2025-09-09,Client payment - invoice,5675.85,Cash Register
+2025-09-15,Facebook Ads campaign,-466.19,Cash Register
+2025-09-15,Office supplies purchase,-67.28,Cash Register
+2025-09-15,Tax payment - quarterly,-1143.06,Main Bank Account
+2025-09-16,Refund received,143.33,Main Bank Account
+2025-09-19,Client payment - invoice,3961.95,Main Bank Account
+2025-09-20,Google Ads campaign,-477.11,Main Bank Account
+2025-09-26,Salary payment - staff,-4067.11,Cash Register
+2025-09-27,Client payment - invoice,859.39,Cash Register
+2025-10-04,Refund received,151.24,Cash Register
+2025-10-06,Client payment - invoice,4859.46,Cash Register
+2025-10-09,Product sale - online store,1000.63,Main Bank Account
+2025-10-09,Refund received,160.13,Cash Register
+2025-10-09,Software subscription - SaaS tools,-73.9,Main Bank Account
+2025-10-14,Product sale - online store,181.99,Main Bank Account
+2025-10-14,Business trip - flights/hotel,-600.01,Main Bank Account
+2025-10-19,Water bill,-44.74,Cash Register
+2025-10-20,Rent payment - office,-1788.04,Cash Register
+2025-10-20,Salary payment - staff,-4324.74,Main Bank Account
+2025-10-21,Electricity bill,-162.51,Cash Register
+2025-10-22,Facebook Ads campaign,-223.82,Main Bank Account
+2025-11-02,Refund received,72.52,Cash Register
+2025-11-04,Consulting fee received,2919.5,Cash Register
+2025-11-04,Business trip - flights/hotel,-411.37,Main Bank Account
+2025-11-08,Software subscription - SaaS tools,-63.22,Cash Register
+2025-11-15,Client payment - invoice,984.33,Cash Register
+2025-11-16,Rent payment - office,-1612.38,Main Bank Account
+2025-11-18,Salary payment - staff,-4408.29,Cash Register
+2025-11-18,Electricity bill,-166.96,Main Bank Account
+2025-11-22,Client payment - invoice,5281.52,Cash Register
+2025-11-23,Refund received,158.73,Cash Register
+2025-11-23,Facebook Ads campaign,-381.88,Main Bank Account
+2025-11-23,Tax payment - quarterly,-966.51,Cash Register
+2025-12-02,Office supplies purchase,-134.85,Cash Register
+2025-12-07,Refund received,278.12,Main Bank Account
+2025-12-09,Client payment - invoice,4749.71,Cash Register
+2025-12-13,Software subscription - SaaS tools,-101.32,Cash Register
+2025-12-15,Product sale - online store,669.37,Cash Register
+2025-12-16,Refund received,88.24,Main Bank Account
+2025-12-22,Water bill,-32.27,Main Bank Account
+2025-12-24,Consulting fee received,1106.1,Cash Register
+2025-12-24,Electricity bill,-158.51,Cash Register
+2025-12-25,Rent payment - office,-1636.97,Cash Register
+2025-12-26,Consulting fee received,1670.89,Main Bank Account
+2026-01-03,Salary payment - staff,-4335.66,Cash Register
+2026-01-05,Water bill,-51.45,Cash Register
+2026-01-14,Product sale - online store,1051.57,Main Bank Account
+2026-01-14,Google Ads campaign,-128.23,Main Bank Account
+2026-01-16,Client payment - invoice,4798.39,Cash Register
+2026-01-17,Client payment - invoice,5507.43,Main Bank Account
+2026-01-19,Tax payment - quarterly,-1085.51,Cash Register
+2026-01-20,Consulting fee received,2170.3,Main Bank Account
+2026-01-21,Consulting fee received,2240.54,Cash Register
+2026-01-23,Software subscription - SaaS tools,-96.04,Main Bank Account
+2026-01-26,Electricity bill,-212.7,Cash Register
+2026-01-26,Office supplies purchase,-128.39,Main Bank Account
+2026-01-28,Consulting fee received,2120.77,Cash Register
+2026-01-28,Business trip - flights/hotel,-570.47,Main Bank Account
+2026-02-02,Tax payment - quarterly,-736.34,Main Bank Account
+2026-02-07,Office supplies purchase,-75.49,Main Bank Account
+2026-02-08,Water bill,-38.75,Cash Register
+2026-02-09,Refund received,206.72,Cash Register
+2026-02-12,Refund received,296.54,Cash Register
+2026-02-13,Product sale - online store,1031.34,Main Bank Account
+2026-02-19,Rent payment - office,-1692.31,Cash Register
+2026-02-21,Business trip - flights/hotel,-412.2,Cash Register
+2026-02-22,Consulting fee received,1775.81,Main Bank Account
+2026-02-23,Refund received,90.03,Cash Register
+2026-02-27,Facebook Ads campaign,-303.8,Cash Register
+2026-02-27,Electricity bill,-102.46,Cash Register
+2026-02-28,Google Ads campaign,-239.4,Main Bank Account
+2026-03-03,Facebook Ads campaign,-536.66,Main Bank Account
+2026-03-05,Product sale - online store,954.49,Cash Register
+2026-03-08,Business trip - flights/hotel,-517.11,Cash Register
+2026-03-11,Consulting fee received,2318.2,Main Bank Account
+2026-03-13,Software subscription - SaaS tools,-42.62,Cash Register
+2026-03-13,Electricity bill,-218.19,Main Bank Account
+2026-03-22,Water bill,-33.78,Cash Register
+2026-03-27,Consulting fee received,744.27,Cash Register
+2026-03-27,Office supplies purchase,-73.37,Cash Register
+2026-03-28,Salary payment - staff,-4262.9,Main Bank Account
+2026-04-04,Refund received,59.14,Main Bank Account
+2026-04-04,Office supplies purchase,-36.12,Cash Register
+2026-04-07,Business trip - flights/hotel,-414.98,Main Bank Account
+2026-04-08,Software subscription - SaaS tools,-51.56,Main Bank Account
+2026-04-11,Tax payment - quarterly,-1005.14,Main Bank Account
+2026-04-13,Product sale - online store,571.69,Cash Register
+2026-04-16,Consulting fee received,613.53,Main Bank Account
+2026-04-21,Client payment - invoice,5031.2,Cash Register
+2026-04-21,Water bill,-47.45,Cash Register
+2026-04-23,Google Ads campaign,-359.2,Cash Register
+2026-04-24,Rent payment - office,-1753.64,Cash Register
+2026-04-27,Salary payment - staff,-4157.46,Cash Register
+2026-05-01,Facebook Ads campaign,-521.59,Main Bank Account
+2026-05-01,Office supplies purchase,-142.7,Cash Register
+2026-05-08,Electricity bill,-97.1,Main Bank Account
+2026-05-12,Salary payment - staff,-3947.01,Main Bank Account
+2026-05-14,Google Ads campaign,-300.09,Main Bank Account
+2026-05-14,Business trip - flights/hotel,-388.34,Cash Register
+2026-05-15,Tax payment - quarterly,-1141.21,Main Bank Account
+2026-05-25,Software subscription - SaaS tools,-91.04,Main Bank Account
+2026-05-26,Product sale - online store,1085.61,Main Bank Account
+2026-05-26,Rent payment - office,-1747.65,Main Bank Account
+2026-05-27,Client payment - invoice,4708.37,Main Bank Account
+2026-05-27,Product sale - online store,1050.15,Cash Register
+2026-05-28,Consulting fee received,2956.88,Main Bank Account
+2026-05-28,Water bill,-36.94,Cash Register
+2026-06-03,Product sale - online store,195.12,Cash Register
+2026-06-04,Refund received,242.07,Main Bank Account
+2026-06-04,Rent payment - office,-1706.24,Cash Register
+2026-06-04,Tax payment - quarterly,-919.91,Cash Register
+2026-06-10,Office supplies purchase,-77.95,Cash Register
+2026-06-11,Refund received,251.68,Cash Register
+2026-06-12,Salary payment - staff,-3832.49,Cash Register
+2026-06-14,Product sale - online store,569.29,Main Bank Account
+2026-06-14,Electricity bill,-174.03,Cash Register
+2026-06-17,Business trip - flights/hotel,-672.36,Cash Register
+2026-06-19,Software subscription - SaaS tools,-43.47,Cash Register
+2026-06-20,Refund received,168.56,Cash Register
+2026-06-24,Google Ads campaign,-358.39,Main Bank Account
+2026-06-27,Facebook Ads campaign,-561.59,Cash Register
+2026-07-04,Tax payment - quarterly,-973.4,Cash Register
+2026-07-06,Client payment - invoice,2002.99,Cash Register
+2026-07-06,Salary payment - staff,-3891.1,Cash Register
+2026-07-06,Software subscription - SaaS tools,-90.4,Cash Register
+2026-07-07,Business trip - flights/hotel,-347.03,Main Bank Account
+2026-07-17,Google Ads campaign,-418.25,Cash Register
+2026-07-19,Consulting fee received,910.63,Cash Register
+2026-07-19,Electricity bill,-142.49,Main Bank Account
+2026-07-20,Client payment - invoice,5609.96,Cash Register
+2026-07-22,Office supplies purchase,-99.12,Cash Register
+2026-07-24,Facebook Ads campaign,-315.07,Main Bank Account
+2026-07-25,Water bill,-38.38,Main Bank Account
